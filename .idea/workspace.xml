@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e9f3df5-3198-4047-b937-474c17e41a13" name="Changes" comment="dubbo源码" />
+    <list default="true" id="3e9f3df5-3198-4047-b937-474c17e41a13" name="Changes" comment="dubbo源码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-all/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-all/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-dependencies-bom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-dependencies-bom/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +29,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="threads" value="2C" />
         <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="$USER_HOME$/Desktop/apache-maven-3.6.3/conf/settings_yuanma.xml" />
       </MavenGeneralSettings>
@@ -34,6 +43,10 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="2Mnz6ZrWRn4F28hlWc3JmutxZTu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,9 +56,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
@@ -58,8 +76,23 @@
       <option name="presentableId" value="Default" />
       <updated>1678417966379</updated>
       <workItem from="1678417968692" duration="363000" />
-      <workItem from="1678438538521" duration="1814000" />
+      <workItem from="1678438538521" duration="5367000" />
     </task>
+    <task id="LOCAL-00001" summary="dubbo源码">
+      <created>1678440405029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678440405029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dubbo源码">
+      <created>1678440535076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678440535076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
