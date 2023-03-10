@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for dubbo-parent" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo" />
+        <module name="dubbo-compatible" />
+        <module name="dubbo-common" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-build-tools" />
+      </profile>
+      <profile name="Annotation profile for dubbo-config-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-config-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-configcenter-etcd" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-configcenter-etcd" />
+      </profile>
+      <profile name="Annotation profile for dubbo-container-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-container-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-container-log4j" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-container-log4j" />
+      </profile>
+      <profile name="Annotation profile for dubbo-container-logback" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-container-logback" />
+      </profile>
+      <profile name="Annotation profile for dubbo-container-spring" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-container-spring" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-annotation-provider" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-annotation-provider" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-api-provider" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-api-provider" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-interface" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-interface" />
+      </profile>
+      <profile name="Annotation profile for dubbo-demo-xml-consumer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-xml-consumer" />
+      </profile>
+      <profile name="Annotation profile for dubbo-filter-validation" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-filter-validation" />
+      </profile>
+      <profile name="Annotation profile for dubbo-metadata-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-metadata-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-metadata-definition-protobuf" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-metadata-definition-protobuf" />
+      </profile>
+      <profile name="Annotation profile for dubbo-metadata-processor" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-metadata-processor" />
+      </profile>
+      <profile name="Annotation profile for dubbo-metadata-report-zookeeper" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-metadata-report-zookeeper" />
+      </profile>
+      <profile name="Annotation profile for dubbo-auth" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-auth" />
+      </profile>
+      <profile name="Annotation profile for dubbo-qos" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-qos" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-consul" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-consul" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-multicast" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-multicast" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-nacos" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-nacos" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-redis" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-redis" />
+      </profile>
+      <profile name="Annotation profile for dubbo-registry-sofa" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-registry-sofa" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-grizzly" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-grizzly" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-mina" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-mina" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-netty" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-netty" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-netty4" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-netty4" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-p2p" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-p2p" />
+      </profile>
+      <profile name="Annotation profile for dubbo-remoting-zookeeper" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-remoting-zookeeper" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-dubbo" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-dubbo" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-grpc" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-grpc" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-hessian" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-hessian" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-http" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-http" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-injvm" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-injvm" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-native-thrift" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-native-thrift" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-rmi" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-rmi" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-thrift" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-thrift" />
+      </profile>
+      <profile name="Annotation profile for dubbo-rpc-xml" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-rpc-xml" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-api" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-api" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-avro" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-avro" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-fastjson" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-fastjson" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-fst" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-fst" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-gson" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-gson" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-hessian2" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-hessian2" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-jdk" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-jdk" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-native-hession" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-native-hession" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-protobuf" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-protobuf" />
+      </profile>
+      <profile name="Annotation profile for dubbo-serialization-test" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-serialization-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dubbo-cluster" options="-proc:none -parameters" />
+      <module name="dubbo-config" options="-proc:none -parameters" />
+      <module name="dubbo-config-spring" options="-proc:none -parameters" />
+      <module name="dubbo-configcenter" options="-proc:none -parameters" />
+      <module name="dubbo-configcenter-apollo" options="-proc:none -parameters" />
+      <module name="dubbo-configcenter-consul" options="-proc:none -parameters" />
+      <module name="dubbo-configcenter-nacos" options="-proc:none -parameters" />
+      <module name="dubbo-configcenter-zookeeper" options="-proc:none -parameters" />
+      <module name="dubbo-container" options="-proc:none -parameters" />
+      <module name="dubbo-demo" options="-proc:none -parameters" />
+      <module name="dubbo-demo-annotation" options="-proc:none -parameters" />
+      <module name="dubbo-demo-annotation-consumer" options="-proc:none -parameters" />
+      <module name="dubbo-demo-api" options="-proc:none -parameters" />
+      <module name="dubbo-demo-api-consumer" options="-proc:none -parameters" />
+      <module name="dubbo-demo-xml" options="-proc:none -parameters" />
+      <module name="dubbo-demo-xml-provider" options="-proc:none -parameters" />
+      <module name="dubbo-filter" options="-proc:none -parameters" />
+      <module name="dubbo-filter-cache" options="-proc:none -parameters" />
+      <module name="dubbo-metadata" options="-proc:none -parameters" />
+      <module name="dubbo-metadata-report-consul" options="-proc:none -parameters" />
+      <module name="dubbo-metadata-report-etcd" options="-proc:none -parameters" />
+      <module name="dubbo-metadata-report-nacos" options="-proc:none -parameters" />
+      <module name="dubbo-metadata-report-redis" options="-proc:none -parameters" />
+      <module name="dubbo-monitor" options="-proc:none -parameters" />
+      <module name="dubbo-monitor-api" options="-proc:none -parameters" />
+      <module name="dubbo-monitor-default" options="-proc:none -parameters" />
+      <module name="dubbo-plugin" options="-proc:none -parameters" />
+      <module name="dubbo-registry" options="-proc:none -parameters" />
+      <module name="dubbo-registry-default" options="-proc:none -parameters" />
+      <module name="dubbo-registry-etcd3" options="-proc:none -parameters" />
+      <module name="dubbo-registry-eureka" options="-proc:none -parameters" />
+      <module name="dubbo-registry-multiple" options="-proc:none -parameters" />
+      <module name="dubbo-registry-zookeeper" options="-proc:none -parameters" />
+      <module name="dubbo-remoting" options="-proc:none -parameters" />
+      <module name="dubbo-remoting-etcd3" options="-proc:none -parameters" />
+      <module name="dubbo-remoting-http" options="-proc:none -parameters" />
+      <module name="dubbo-rpc" options="-proc:none -parameters" />
+      <module name="dubbo-rpc-memcached" options="-proc:none -parameters" />
+      <module name="dubbo-rpc-redis" options="-proc:none -parameters" />
+      <module name="dubbo-rpc-rest" options="-proc:none -parameters" />
+      <module name="dubbo-rpc-webservice" options="-proc:none -parameters" />
+      <module name="dubbo-serialization" options="-proc:none -parameters" />
+      <module name="dubbo-serialization-kryo" options="-proc:none -parameters" />
+      <module name="dubbo-serialization-protostuff" options="-proc:none -parameters" />
+    </option>
+  </component>
+</project>
