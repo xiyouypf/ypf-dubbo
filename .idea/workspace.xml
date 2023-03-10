@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e9f3df5-3198-4047-b937-474c17e41a13" name="Changes" comment="dubbo源码">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-all/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-all/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-dependencies-bom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-dependencies-bom/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e9f3df5-3198-4047-b937-474c17e41a13" name="Changes" comment="dubbo源码2.7.8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +19,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="threads" value="1C" />
         <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="$USER_HOME$/Desktop/apache-maven-3.6.3/conf/settings_yuanma.xml" />
       </MavenGeneralSettings>
@@ -76,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678417966379</updated>
       <workItem from="1678417968692" duration="363000" />
-      <workItem from="1678438538521" duration="5367000" />
+      <workItem from="1678438538521" duration="5604000" />
     </task>
     <task id="LOCAL-00001" summary="dubbo源码">
       <created>1678440405029</created>
@@ -92,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678440535076</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dubbo源码2.7.8">
+      <created>1678446534317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678446534317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dubbo源码" />
-    <option name="LAST_COMMIT_MESSAGE" value="dubbo源码" />
+    <MESSAGE value="dubbo源码2.7.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo源码2.7.8" />
   </component>
 </project>
